@@ -44,7 +44,21 @@
         </div>
     </nav>
     <!-- termina nav -->
-
+    <!-- empiza formulario -->
+    <form action="/action_page.php">
+        <div class="mb-3 mt-3">
+            <label for="text" class="form-label">Nombre:</label>
+            <input type="text" class="form-control" id="nombre" placeholder="Ingrese nombre" name="nombre">
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label">Email:</label>
+            <input type="email" class="form-control" id="email" placeholder="Ingrese email" name="email">
+        </div>
+        <label for="comment">Ingrese pregunta/s:</label>
+        <textarea class="form-control" rows="5" id="comment" name="text"></textarea>
+        <button type="submit" class="btn btn-primary boton">Enviar</button>
+    </form>
+    <!-- termina formulario -->
 
     <!-- empieza footer -->
     <footer>
