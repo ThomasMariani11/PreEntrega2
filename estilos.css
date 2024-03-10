@@ -117,3 +117,12 @@ footer h4{
     text-decoration: none;
     margin-bottom: 10px;
 }
+/* SERVICIOS */
+.textoservicios{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
