@@ -13,20 +13,20 @@ img{
     width: 107px ;
 }
 .navbar{
-    background-color: #9c9c9c; 
+    background-color: #0a0b5c; 
     width: 100%;
 }
 h4{
-    color: black;
+    color: white;
     font-family: 'Protest Revolution', sans-serif;
     font-size: 21px !important;
 }
 .comencemos {
-    background-color: blue;
+    background-color: #0c0eff;
     border-radius: 5px;
 }
 a{
-    color: black !important;
+    color: white !important;
     font-size: 15px;
 }
 .nav-item{
@@ -90,8 +90,8 @@ a{
     padding: 10px;
 }
 footer{
-    color: black;
-    background-color: #9c9c9c;
+    color: white;
+    background-color: #0a0b5c;
     font-size: 20px;
     text-align: center;
     width: 100%;
@@ -108,12 +108,12 @@ footer p{
     font-weight: bold;
 }
 footer h4{
-    color: black;
+    color: white;
     font-size: 15px;
     font-family: 'Protest Revolution', 'sans-serif';
 }
 .redes i{
-    color: blue;
+    color: #0c0eff;
     text-decoration: none;
     margin-bottom: 10px;
 }
@@ -146,9 +146,10 @@ h2{
 /* PREGUNTAS */
 form{
     padding: 20px;
+    margin-top: 50px;
 }
 .footerPreguntas{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 /* CONTACTO */
 .negocio{
