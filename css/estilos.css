@@ -24,11 +24,6 @@ h4 {
   font-size: 21px !important;
 }
 
-.comencemos {
-  background-color: #0c0eff;
-  border-radius: 5px;
-}
-
 a {
   color: white !important;
   font-size: 15px;
@@ -134,7 +129,7 @@ footer h4 {
   font-weight: bold;
   color: black;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   padding-top: 60px;
 }
 
@@ -162,6 +157,10 @@ h2 {
   font-weight: bold;
 }
 
+.boton {
+  margin-top: 30px;
+}
+
 /* PREGUNTAS */
 form {
   padding: 20px;
@@ -172,14 +171,19 @@ form {
   margin-top: 150px;
 }
 
+.boton {
+  margin-top: 30px;
+}
+
 /* SERVICIOS */
 .textoservicios {
-  font-size: 30px;
+  font-size: 20px;
   font-family: "Poppins", sans-serif;
   color: black;
   font-weight: bold;
   text-align: center;
   padding: 20px;
+  margin-top: 50px;
 }
 
 /* MEDIA QUERIES */
@@ -195,6 +199,12 @@ form {
     font-size: medium;
   }
   .contacto {
+    font-size: 30px;
+  }
+  .textoservicios {
+    font-size: 30px;
+  }
+  .textoaceraDe {
     font-size: 30px;
   }
 }
@@ -215,6 +225,10 @@ form {
   .contacto {
     font-size: 30px;
   }
-}
-
-/*# sourceMappingURL=estilos.css.map */
+  .textoservicios {
+    font-size: 30px;
+  }
+  .textoaceraDe {
+    font-size: 30px;
+  }
+}/*# sourceMappingURL=estilos.css.map */
