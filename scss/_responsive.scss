@@ -27,6 +27,9 @@
 }
 
 @media only screen and (min-width: 1200px) {
+    .call1 h2{
+        font-size: 50px;
+    }
     .primera {
         grid-template-columns: 1fr 1fr 1fr;
     }
